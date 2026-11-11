@@ -1,0 +1,7 @@
+# needed to run reasoning_agent.ipynb
+pandas>=2.0
+notebook
+ipykernel
+# needed only to download the public data (download_data.py)
+datasets>=2.18
+huggingface_hub>=0.20

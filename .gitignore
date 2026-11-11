@@ -1,0 +1,5 @@
+# public datasets are downloaded with download_data.py (RuleTaker alone is >300 MB)
+data/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
